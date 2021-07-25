@@ -23,7 +23,7 @@ const AllMeetups = () => {
       };
       meetups.push(meetup);
     }
-    console.log(meetups);
+    // console.log(meetups);
     setLoading(false);
     setLoadedMeetups(meetups);
   };
