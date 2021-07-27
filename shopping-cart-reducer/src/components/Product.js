@@ -35,12 +35,12 @@ const Product = ({ product }) => {
             </Button>
           ) : (
             <Button
-              disabled={product.inStock}
+              disabled={!product.inStock}
               onClick={() => {
                 dispatch({ type: "ADD_TO_CART", payload: product });
               }}
             >
-              {product.inStock ? "Out of Stock" : "Add to Cart"}
+              {!product.inStock ? "Out of Stock" : "Add to Cart"}
             </Button>
           )}
         </Card.Body>
