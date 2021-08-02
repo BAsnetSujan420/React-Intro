@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "title": "Amazing Material UI",
+      "details": "That was awesome.",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "title": "Pay me the Bill",
+      "details": "wow money money money",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "Learn React Admin",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at mauris molestie, lobortis eros a, varius nisi. Integer aliquet fermentum nibh. Nam vitae accumsan mauris. Maecenas tincidunt, velit ut sagittis accumsan, elit lectus sollicitudin nibh, nec porttitor lectus dolor sit amet turpis. Duis convallis facilisis porttitor. Nullam quis enim tortor. Integer lorem dui, fringilla id pretium at, tincidunt in orci. Aliquam sodales cursus finibus. Nulla id augue sed velit consectetur venenatis. Phasellus ornare, erat sit amet porttitor tempus, felis ex blandit orci, quis convallis ex diam ac ligula. Fusce at sapien quis magna feugiat convallis. Ut dignissim quis purus non vehicula. Nulla malesuada est risus, quis posuere enim ornare vel. Mauris nunc ex, pretium eu velit vitae, aliquam molestie justo. Fusce placerat massa vel tortor porttitor, et tincidunt lacus posuere.",
+      "category": "todos",
+      "id": 6
+    },
+    {
+      "title": "Watch Corridor Crew Video",
+      "details": "Phasellus consectetur libero semper, iaculis felis id, egestas eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec quis suscipit nisl. Donec dictum risus a velit placerat, in ultrices sem auctor. Etiam sollicitudin bibendum erat, ac euismod neque tempus in.",
+      "category": "reminders",
+      "id": 7
+    },
+    {
+      "title": "Take a Walk",
+      "details": "walk for 30 minutes",
+      "category": "work",
+      "id": 8
+    },
+    {
+      "title": "Buy some apple and pineapple",
+      "details": "Nam sit amet tincidunt felis. Nam hendrerit eros quis euismod commodo. Vivamus dapibus velit ac felis sodales, eu tempus metus viverra. Maecenas augue massa, consequat vitae scelerisque et, porttitor in ligula. Maecenas aliquet diam vel diam laoreet, ut consequat ligula vestibulum. Proin pellentesque dolor accumsan, placerat nunc vitae, interdum est. Integer dignissim facilisis enim at hendrerit. Integer sit amet iaculis neque, et vulputate tellus. Integer sed metus ut erat congue lobortis. Morbi in odio posuere, rhoncus nunc sit amet, ullamcorper quam.",
+      "category": "money",
+      "id": 9
+    },
+    {
+      "title": "Listen Opera Arias",
+      "details": "Donec quis suscipit nisl. Donec dictum risus a velit placerat, in ultrices sem auctor. Etiam sollicitudin bibendum erat, ac euismod neque tempus in",
+      "category": "reminders",
+      "id": 10
+    }
+  ]
+}
