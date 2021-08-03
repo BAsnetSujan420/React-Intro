@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Love that",
+      "body": "My first post",
+      "publishedAt": "2021-08-01"
+    },
+    {
+      "title": "amazing",
+      "body": "this is cool",
+      "publishedAt": "2021-08-13",
+      "id": "aAEu3uc"
+    }
+  ],
+  "users": [
+    {
+      "name": "sujan",
+      "email": "Sujanbasnet88@gmail.com",
+      "id": "bOirvlu"
+    }
+  ]
+}
